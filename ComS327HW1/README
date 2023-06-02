@@ -1,0 +1,21 @@
+ComS327
+Neha Maddali
+9/7/22
+Terrain Generation HW1
+Programming Project 1.01
+
+This program generates a map of 80x21.
+
+There are two paths N-S, W-E represented by '#'
+
+Pokemon Center and a Pokemart, represented by one or more ’C’ and ’M’ which are reachable from the paths
+
+Two regions of tall grass represented by ':'
+
+The outermost cells of the map are immovable boulders with path exits on N, S, E, W 
+
+The map contains two clearings represented by '.'
+
+Rocks and boulders represented by '%'
+
+Tree represented by '^'

@@ -1,0 +1,25 @@
+ComS327
+Neha Maddali - nmaddali
+11/2/22
+CSV Parsing HW7
+Programming Project 1.07
+
+Setup:
+"make clean" to remove all generated files
+"make" to compile code
+"./poke327 csvFileName" to start the game (csv filename, excluding '.csv'). Filename should appear as in assignment spec
+
+This program is built off of the professor's solutions to Programming Project 1.06
+
+We attempt to load database from three locations "/share/cs327", "$HOME/.poke327/" and local file. If couldn't find any database, related to the name, exit the program with message.
+
+Parses the following files under pokedex/pokedex/data/csv/:
+    pokemon.csv
+    moves.csv
+    pokemon_moves.csv
+    pokemon_species.csv
+    experience.csv
+    type_names.csv
+    pokemon_stats.csv
+    stats.csv
+    pokemon_types.csv

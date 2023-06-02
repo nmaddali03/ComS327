@@ -1,0 +1,12 @@
+ComS327
+Neha Maddali - nmaddali
+10/5/22
+Player Character and Trainers HW4
+Programming Project 1.04
+
+This program is built off of the professor's solutions to Programming Project 1.03
+To start game, input # of npc's to add when "--numtrainer" is shown
+"h" = hikers, "r" = rivals, "p" = pacers, "w" = wanderers, "s" = stationaries, "n" = random walkers
+N for north, S for south, E for east, W for west, F for fly to (x,y) of the world and Q is for quit
+
+"./ComS327HW4" to start game after "make"

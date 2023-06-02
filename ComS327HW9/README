@@ -1,0 +1,44 @@
+ComS327
+Neha Maddali - nmaddali
+11/16/22
+Loading Pokemon HW9
+Programming Project 1.09
+
+Setup:
+"make clean" to remove all generated files
+"make" to compile code
+"./poke327" to start the game
+
+Pokemon Battle functionality implemented. The trainer starts with 10 pokeballs, potions and revives. 'B' to access the bag.
+Revive/heal all pokemons for free at the PokeCenter. Restore all supplies in bag at the PokeMart.
+
+Due to there being no PP or struggle, sometimes you can get stuck in an infinite battle if both your pokemon and the enemy
+trainers pokemon have no damaging moves. To avoid this, make sure that when picking a starting pokemon, choose one with an 
+attacking move, or catch a wild pokemon that has one before battling.
+
+Move through tall grass to find wild pokemons. 
+
+"h" is hikers
+"r" is rivals
+"p" is pacers
+"w" is wanderers
+"s" is stationaries
+"n" is random walkers
+
+7 or y Attempt to move PC one cell to the upper left
+8 or k Attempt to move PC one cell up.
+9 or u Attempt to move PC one cell to the upper right.
+6 or l Attempt to move PC one cell to the right.
+3 or n Attempt to move PC one cell to the lower right.
+2 or j Attempt to move PC one cell down.
+1 or b Attempt to move PC one cell to the lower left.
+4 or h Attempt to move PC one cell to the left.
+'>' enter building
+'<' leave building
+'B' to access the bag
+"f" to fly between maps (x, y) - enter as following: f X Y
+q quit the game
+esc When displaying trainer list or in the battle, return to character control(When NPCs are defeated, they will be remove from the map).
+
+
+Loads database from three locations "/share/cs327", "$HOME/.poke327/" and local file

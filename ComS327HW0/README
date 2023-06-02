@@ -1,0 +1,10 @@
+ComS327
+Neha Maddali
+8/31/22
+A Modified Abelian Sandpile HW0
+
+This program implements a modified Abelian Sandpile. The world is a 23x23 grid and includes sinks that do not allow sand to fall into that cell.
+
+The program accepts optional parameters, called salt, in three-tuples in the form "y x h", where y and x are the coordinates in the grid where a sandpile of height h is dropped. Sinks are added with a height of -1. Sinks placed in the center are ignored.
+
+The program also accepts a fps parameter triggered by passing "--fps" as the first parameter and a fps value as the second. The salt starts after. The default fps is 60

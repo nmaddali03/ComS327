@@ -1,0 +1,5 @@
+10/14 - download professors 1.04 code and add ncurses - understand how it works
+10/15 - utilize ncurses in print map and add the pc movement
+10/16 - add battle placeholder and menu of trainers
+10/17 - add feature to entering and leaving buildings
+10/18 - apply color, create readme

@@ -1,0 +1,2 @@
+ComS327HW1: ComS327HW1.c
+	gcc ComS327HW1.c -o ComS327HW1

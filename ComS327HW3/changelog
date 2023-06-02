@@ -1,0 +1,8 @@
+9/17/2022 Look at professor's code, read through assignment spec
+9/18/2022 start working on psuedo code
+9/19/2022 start heap.c and heap.h
+9/20/2022 use professor's code to build of for path finding
+9/24/2022 start dijkstra_cost method (from dijkstra_path)
+9/25/2022 debug code, start distance map
+9/26/2022 distance map
+9/27/2022 print distance map and debug code

@@ -1,0 +1,2 @@
+12/6: started a pong arcade game in cpp -- set up the player and the console
+12/7: used ncurses to finish implementing game -- two player game

@@ -1,0 +1,27 @@
+ComS327
+Neha Maddali - nmaddali
+12/7/22
+Choose Your Own Assignment HW10
+Programming Project 1.10/2
+
+Setup:
+"make clean" to remove all generated files
+"make" to compile code
+"./pong" to start the game
+
+Pong arcade game. Scores start at 0 for each player. Earn a point for every goal made. Currently implemented with no score limit.
+
+Player 1 controls: 
+'w' - move up
+'s' - move down
+'a' - move left
+'d' - move right
+
+Player 2 controls: 
+UP key - move up
+DOWN key - move down
+LEFT key - move left
+RIGHT key - move right
+
+SPACE - serve the ball
+'q' - quit
